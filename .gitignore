@@ -1,0 +1,6 @@
+API_DeepLearning
+venv
+.venv
+uploads
+models/*
+.idea
